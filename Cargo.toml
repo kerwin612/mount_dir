@@ -1,0 +1,13 @@
+[package]
+name = "mount_dir"
+version = "0.0.4"
+authors = ["kerwin612 <kerwin612@qq.com>"]
+description = "Mount portable directory as consistent user directory."
+repository = "https://github.com/kerwin612/mount_dir"
+keywords = ["portable", "directory"]
+license-file = "LICENSE"
+readme = "README.md"
+
+[dependencies]
+random-string = "1.0.0"
+win_subst = "0.0.3"
